@@ -1,0 +1,204 @@
+body {
+    width: 1500px;
+    height: 687px;
+    margin: 0 auto;
+}
+.header {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1535px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background: #F8F8F8;
+}
+
+.header__item {
+    position: absolute;
+    width: 290px;
+    height: 68px;
+    left: 241px;
+    top: 29px;
+}
+.headerlogo {
+    cursor: pointer;
+}
+.home {
+    position: absolute;
+    width: 63px;
+    height: 24px;
+    left: 920px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+}
+
+.about {
+    position: absolute;
+    width: 62px;
+    height: 24px;
+    left: 1013px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+}
+
+.works {
+    position: absolute;
+    width: 69px;
+    height: 24px;
+    left: 1101px;
+    top: 46px;    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+}
+
+.partners {
+    position: absolute;
+    width: 91px;
+    height: 24px;
+    left: 1196px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #00A9C6;
+}
+
+.contact {
+    position: absolute;
+    width: 85px;
+    height: 24px;
+    left: 1313px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+    }
+
+.top h2 {
+    position: absolute;
+    width: 697px;
+    height: 62px;
+    left: 490px;
+    top: 60px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px; 
+    letter-spacing: 0.03em;
+    color: #7E7E7E;
+}
+
+.foto_one {
+    position: absolute;
+    width: 283px;
+    height: 67px;
+    left: 145px;
+    top: 180px;
+}
+.foto_two {
+    position: absolute;
+    width: 283px;
+    height: 70.75px;
+    left: 435px;
+    top: 180px;
+}
+.foto_three {
+    position: absolute;
+    width: 283px;
+    height: 70.75px;
+    left: 145px;
+    top: 260px;
+}
+.foto_four {
+    position: absolute;
+    width: 275px;
+    height: 68.75px;
+    left: 435px;
+    top: 260px;
+}
+
+.foto_five{
+    position: absolute;
+    left: 830px;
+    top: 174px;
+}
+.top p{
+    position: absolute;
+    height: 208px;
+    left: 1050px;
+    top: 174px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #A5A5A5;
+}
+
+.bottom h2{
+    position: absolute;
+    width: 201px;
+    height: 48px;
+    left: 675px;
+    top: 360px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0.03em;
+    color: #7E7E7E;
+}
+
+.bottom p{
+    position: absolute;
+    width: 536px;
+    height: 48px;
+    left: 530px;
+    top: 430px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #A5A5A5;
+}
+.imployer_one {
+    position: absolute;
+    left: 245px;
+    top: 490px;
+} 
+.imployer_two {
+    position: absolute;
+    left: 533px;
+    top: 490px; 
+}
+.imployer_three {
+    position: absolute;
+    left: 821px;
+    top: 490px;
+}
+.imployer_four {
+    position: absolute;
+    left: 1109px;
+    top: 490px;
+}
+a{
+    text-decoration: none;
+    color: #BEB9B6;
+}

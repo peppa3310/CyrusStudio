@@ -1,0 +1,155 @@
+body {
+    background: url('img/back3.jpg');
+    width: 1500px;
+    height: 687px;
+    margin: 0 auto;
+}
+.header {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1535px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background: #F8F8F8;
+}
+
+.header__item {
+    position: absolute;
+    width: 290px;
+    height: 68px;
+    left: 241px;
+    top: 29px;
+}
+.headerlogo {
+    cursor: pointer;
+}
+.home {
+    position: absolute;
+    width: 63px;
+    height: 24px;
+    left: 920px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #00A9C6;
+}
+
+.about {
+    position: absolute;
+    width: 62px;
+    height: 24px;
+    left: 1013px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+}
+
+.works {
+    position: absolute;
+    width: 69px;
+    height: 24px;
+    left: 1101px;
+    top: 46px;    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+}
+
+.partners {
+    position: absolute;
+    width: 91px;
+    height: 24px;
+    left: 1196px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+}
+
+.contact {
+    position: absolute;
+    width: 85px;
+    height: 24px;
+    left: 1313px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+    }
+
+.mainlogo {
+    position: absolute;
+    width: 456px;
+    height: 103px;
+    left: 562px;
+    top: 223px;
+}
+h1 {
+    position: absolute;
+    width: 1286px;
+    height: 35px;
+    left: 107px;
+    top: 322px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 86px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+p{
+    position: absolute;
+    width: 841px;
+    height: 64px;
+    left: 437px;
+    top: 448px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    }
+
+.button1 {
+    position: absolute;
+    width: 289px;
+    height: 58px;
+    left: 460px;
+    top: 591px;
+    background: rgba(14, 13, 13, 0.5);
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+}
+ .button2 {
+    position: absolute;
+    width: 289px;
+    height: 58px;
+    left: 757px;
+    top: 591px;
+    background: rgba(14, 13, 13, 0.5);
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+}
+
+ a{
+    text-decoration: none;
+    color: #BEB9B6;
+ }

@@ -1,0 +1,182 @@
+body {
+    width: 1500px;
+    height: 687px;
+    margin: 0 auto;
+}
+.header {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1535px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background: #F8F8F8;
+}
+
+.header__item {
+    position: absolute;
+    width: 290px;
+    height: 68px;
+    left: 241px;
+    top: 29px;
+}
+.headerlogo {
+    cursor: pointer;
+}
+.home {
+    position: absolute;
+    width: 63px;
+    height: 24px;
+    left: 920px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+}
+
+.about {
+    position: absolute;
+    width: 62px;
+    height: 24px;
+    left: 1013px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+}
+
+.works {
+    position: absolute;
+    width: 69px;
+    height: 24px;
+    left: 1101px;
+    top: 46px;    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+}
+
+.partners {
+    position: absolute;
+    width: 91px;
+    height: 24px;
+    left: 1196px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BEB9B6;
+    cursor: pointer;
+}
+
+.contact {
+    position: absolute;
+    width: 85px;
+    height: 24px;
+    left: 1313px;
+    top: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #00A9C6;
+}
+
+.form-title {
+    position: absolute;
+    width: 721px;
+    height: 36px;
+    left: 430px;
+    top: 70px;   
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #7E7E7E;
+}
+
+.container_name input {
+    box-sizing: border-box;
+    position: absolute;
+    width: 455px;
+    height: 55px;
+    left: 550px;
+    top: 189px;
+    padding-left: 15px;
+    border: 2px solid #7E7E7E;
+}
+.container_company input {
+    box-sizing: border-box;
+    position: absolute;
+    width: 455px;
+    height: 55px;
+    left: 550px;
+    top: 265px;
+    padding-left: 15px;
+    border: 2px solid #7E7E7E; 
+}
+.container_message textarea {
+    box-sizing: border-box;
+    position: absolute;
+    width: 455px;
+    height: 120px;
+    left: 550px;
+    top: 341px;
+    padding-left: 15px;
+    border: 2px solid #7E7E7E;
+}
+
+input:focus {
+    outline: none;
+    border: 2px solid #00A9C6;
+}
+textarea:focus {
+    outline: none;
+    border: 2px solid #00A9C6;
+}
+.button {
+    font-weight: bold;
+    font-size: 16px;
+    position: absolute;
+    width: 455px;
+    height: 55px;
+    left: 550px;
+    top: 482px;
+    background: #00A9C6;
+    text-transform: uppercase;
+    cursor: pointer; 
+}
+a{
+    text-decoration: none;
+    color: #BEB9B6;
+}
+
+.footer {
+    position: absolute;
+    width: 1535px;
+    height: 100px;
+    left: 0px;
+    top: 621px;
+    background-color: #000;
+    color: #fff;
+
+}
+
+.footer p{
+    position: absolute;
+    font-weight: bold;
+    top: 60px;
+    left: 600px;
+}
